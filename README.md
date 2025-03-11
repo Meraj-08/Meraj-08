@@ -1,19 +1,24 @@
-### Hi there, I'm <a href="https://mendsalbert.netlify.app" target="_blank">Mends Albert</a>
+### Hi there 👋, I'm <a href="https://.netlify.app" target="_blank">Md Meraj Alam</a>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mends-albert/)
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mendsalbert-liart.vercel.app) -->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mendsalbert)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mendsalbert_/)
+### Connect with me
+<p align="left">
+<a href="https://in.linkedin.com/in/md-meraj-alam-4670272a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Meraj0821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mdmeraj08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/mdmerajapr7h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  height="30" width="40" /></a>
+</p>
 
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-Hey there! I'm not just your data enthusiast; I'm also a software engineer and web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding or exploring data, you'll find me indulging in my love for documentaries. Oh, and did I mention I enjoy whipping up some delicious dishes in the kitchen too? Let's connect and share some stories, whether it's about data, coding, documentaries, or the latest recipe I've tried! 😊
+Hey there! I'm not just your data enthusiast; I'm also a software engineer and web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding or exploring data, you'll find me indulging in my love for documentaries. Let's connect and share some stories, whether it's about data, coding or documentaries
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 ### Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,9 +26,14 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 **Talking about Personal Stuffs:**
@@ -31,35 +41,15 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently Building machine learning projects;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [blog.mendsalbert.com](https://mendsalbert-liart.vercel.app/blog);
-- 📫 How to reach me: mendsalbert.com;
-- 📝 [Resume](https://mendsalbert.com). 
+- 📫 How to reach me: mdmerajalam821@gmail.com 
 
 </br>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ExpreesJs-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Meraj-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Meraj-08&theme=dark&hide_border=false)<br/>
 
-📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendsalbert&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendsalbert&exclude_repo=K
 
-</p>
+
