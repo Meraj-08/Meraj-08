@@ -12,8 +12,6 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
-
 Hey there! I'm not just your data enthusiast; I'm also a software engineer and web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding or exploring data, you'll find me indulging in my love for documentaries. Let's connect and share some stories, whether it's about data, coding or documentaries
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
