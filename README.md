@@ -1,4 +1,4 @@
-### Hi there 👋, I'm <a href="https://.netlify.app" target="_blank">Md Meraj Alam</a>
+### Hi there 👋, I'm <a href="https://meraj-portfolioo.netlify.app" target="_blank">Md Meraj Alam</a>
 
 ### Connect with me
 <p align="left">
