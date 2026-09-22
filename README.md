@@ -8,7 +8,6 @@ Backend & full-stack developer · CS undergrad · ex-Amazon SDE Intern
 <a href="https://leetcode.com/u/mdmeraj08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Meraj0821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/mdmerajapr7h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-<a href="mailto:mdmerajalam821@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
 </p>
 
 I build resilient, high-throughput software. As a CS undergrad and former Amazon SDE Intern, I've worked across backend microservices, AWS cloud infrastructure (CDK, ECS), and full-stack React applications — focusing on low-latency systems, clean design, and shipping at scale. Outside of code, I'm usually deep in a documentary. Let's connect and build something great.
@@ -42,11 +41,3 @@ I build resilient, high-throughput software. As a CS undergrad and former Amazon
 - 💬 Ask me about backend, cloud, React, or DSA — happy to help
 - 📫 Reach me at **mdmerajalam821@gmail.com**
 
-### GitHub Stats
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Meraj-08&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj-08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=Meraj-08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
