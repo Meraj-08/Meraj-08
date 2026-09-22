@@ -35,7 +35,7 @@ I build resilient, high-throughput software. As a CS undergrad and former Amazon
 
 ### Personal Stuff
 
-- 🏢 Completed my **SDE Internship @ Amazon** (June 2026) — backend microservices & cloud infrastructure (AWS, CDK, ECS)
+- 🏢 Completed my **SDE Internship @ Amazon** — backend microservices & cloud infrastructure (AWS, CDK, ECS)
 - 🚀 Currently building full-stack apps and systems projects — compilers, computer vision, and ML
 - 🧠 Sharpening problem-solving on LeetCode, Codeforces & GeeksforGeeks
 - 💬 Ask me about backend, cloud, React, or DSA — happy to help
